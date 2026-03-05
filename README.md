@@ -1,4 +1,4 @@
-O sistema de cadastro clientes
+# O sistema de cadastro clientes
 
 Este projeto é um sistema simples para cadastro de clientes
 O objetivo é registrar informações básicas como nome, email e telefone
@@ -11,7 +11,7 @@ Novas funcionalidades serão adicionadas
 Testando novas mudanças  atravéz da Ide do visual studio code
 
 
-##Código JAVASCRIPT
+## Código JAVASCRIPT
 
 O sistema permite o cadastro de cliente atravéz da aba **Cad_Cliente**
 
@@ -24,4 +24,4 @@ if idade >=18{
 }
 
 ---
-###Comando para visualizar o código Markdown(Ctr+Shift+V)
+### Comando para visualizar o código Markdown(Ctr+Shift+V)
