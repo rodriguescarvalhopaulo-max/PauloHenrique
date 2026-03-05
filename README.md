@@ -25,5 +25,4 @@ if idade >=18{
 }
 
 ---
-
 ###Comando para visualizar o código Markdown(Ctr+Shift+V)
