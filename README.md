@@ -15,9 +15,8 @@ Testando novas mudanças  atravéz da Ide do visual studio code
 
 O sistema permite o cadastro de cliente atravéz da aba **Cad_Cliente**
 
-
 ---JavaScript
-    Const idade = 25
+Const idade = 25
 if idade >=18{
      Console.log("pode dirigir")
 {else}
